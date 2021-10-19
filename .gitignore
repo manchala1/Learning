@@ -1,0 +1,4 @@
+#compiled output
+/dist
+/Rest-API/node_modules
+/Front-END/my-app/node_modules
